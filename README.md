@@ -39,11 +39,12 @@ El sistema se rige por una lógica de proximidad euclidiana:
 
 
 ## 6. Proceso de Creación
-- **Fase 1 (Estructura):** Creación de la grilla mediante bucles `for` anidados.
-- **Fase 2 (Interactividad):** Integración de `dist()` para permitir que la obra "sienta" al usuario.
-- **Fase 3 (Estética):** Ajuste de la paleta de colores usando el modo HSB para lograr tonos turquesas y morados.
-- **Fase 4 (Perfeccionamiento):** Implementación de funciones parametrizadas y estructuras de control (condicionales) para la rotación final.
-
+- Para la estructura empece haciendo una grilla mediante bucles `for` anidados, luego procedi con la integración de `dist()` para permitir que la obra "sienta" al usuario.
+Ajuste de la paleta de colores usando el modo HSB para lograr tonos mas fuertes como turquesas y morados. Implemente funciones parametrizadas y estructuras de control (condicionales) para la rotación final.
+![avance-grilla](Imagenes/avance-grilla.png)
+![avance-2](Imagenes/avance-2.png)
+![avance-3](Imagenes/avance-3.png)
+![avance-4](Imagenes/avance-4.png)
 ## 7. Ejecución
 [Puedes ver y editar el código en vivo aquí:
 ](https://editor.p5js.org/sofia.salvo/sketches/Y7TJ3mxGa)
