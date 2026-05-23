@@ -45,6 +45,7 @@ Ajuste de la paleta de colores usando el modo HSB para lograr tonos mas fuertes 
 ![avance-2](Imagenes/avance-2.png)
 ![avance-3](Imagenes/avance-3.png)
 ![avance-4](Imagenes/avance-4.png)
-## 7. Ejecución
-[Puedes ver y editar el código en vivo aquí:
-](https://editor.p5js.org/sofia.salvo/sketches/Y7TJ3mxGa)
+## 7. Ejecución y conclusión
+Finalmente logré crear la interacción con el usuario que estaba buscando. Principalmente tuve complicaciones con distintos comandos que no conocía del todo, pero que terminaron ayudándome mucho a simplificar el trabajo. Siempre me apoyé en las referencias de p5.js y en las clases anteriores. Aun así, fue un ejercicio que disfruté bastante y quedé muy conforme con cómo resultó.
+
+[P5js](https://editor.p5js.org/sofia.salvo/sketches/Y7TJ3mxGa)
