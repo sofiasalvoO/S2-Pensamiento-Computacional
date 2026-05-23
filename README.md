@@ -5,7 +5,7 @@
 - **Autor/a:** Sofía Salvo
 - **Asignatura:** Pensamiento Computacional
 - **Institución:** Universidad Diego Portales
-- ![resultado](Imagenes/resultado.png)
+ ![resultado](Imagenes/resultado.png)
 
 ## 2. Descripción Objetiva
 Este proyecto es una pieza de arte generativo e interactivo desarrollado en **p5.js**. El sistema genera una retícula de elementos geométricos que responden en tiempo real al movimiento del cursor del usuario. 
@@ -16,6 +16,7 @@ Este proyecto es una pieza de arte generativo e interactivo desarrollado en **p5
 ## 3. Descripción Conceptual
 - **Idea central:** El proyecto explora la **"perturbación espacial"**. La grilla representa el orden y el rigor geométrico, mientras que el cursor del usuario actúa como un agente caótico que "dobla" o "rompe" ese orden al pasar por encima.
 - **Referente:** Este trabajo dialoga directamente con el **Arte Cinético** de **Julio Le Parc**. Se busca replicar esa sensación de inestabilidad óptica y dinamismo donde el espectador, con su presencia, altera la obra.
+![Julio le parc](Julio le parc.jpeg)
 - **Referentes visuales:** Las series de "Continuel-mobile" de Le Parc, donde la repetición de formas simples genera una ilusión de movimiento fluido.
 - **Principio de diseño:** El contraste entre lo **estático** (el fondo de elipses lineales) y lo **cinético** (los cuadrados que giran y escalan).
 
