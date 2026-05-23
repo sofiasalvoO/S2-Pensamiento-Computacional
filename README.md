@@ -7,7 +7,7 @@
 - **Institución:** Universidad Diego Portales
 
  ![resultado](Imagenes/resultado.png)
-
+[P5js](https://editor.p5js.org/sofia.salvo/sketches/Y7TJ3mxGa)
 ## 2. Descripción Objetiva
 Este proyecto es una pieza de arte generativo e interactivo desarrollado en **p5.js**. El sistema genera una retícula de elementos geométricos que responden en tiempo real al movimiento del cursor del usuario. 
 - **Qué se ve:** Un lienzo oscuro sobre el cual se despliega una grilla dinámica de cuadrados y elipses que mutan de forma y color.
