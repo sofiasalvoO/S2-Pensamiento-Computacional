@@ -35,7 +35,7 @@ El sistema se rige por una lógica de proximidad euclidiana:
 3. **Output:** Renderizado gráfico en tiempo real que actualiza 60 veces por segundo.
 
 ## 5. Diagrama de Flujo
-![Diagrama de flujo](Imagenes/Diagrama_de_flujo.png)
+![Diagrama de flujo](Imagenes/Diagrama-de-flujo.png)
 
 
 ## 6. Proceso de Creación
