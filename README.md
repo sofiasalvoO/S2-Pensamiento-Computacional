@@ -5,6 +5,7 @@
 - **Autor/a:** Sofía Salvo
 - **Asignatura:** Pensamiento Computacional
 - **Institución:** Universidad Diego Portales
+- ![Obra original](Imagenes/resutado.png)
 
 ## 2. Descripción Objetiva
 Este proyecto es una pieza de arte generativo e interactivo desarrollado en **p5.js**. El sistema genera una retícula de elementos geométricos que responden en tiempo real al movimiento del cursor del usuario. 
